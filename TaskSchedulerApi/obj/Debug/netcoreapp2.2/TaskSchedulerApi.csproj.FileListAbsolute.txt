@@ -1,0 +1,14 @@
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\bin\Debug\netcoreapp2.2\TaskSchedulerApi.deps.json
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\bin\Debug\netcoreapp2.2\TaskSchedulerApi.runtimeconfig.json
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\bin\Debug\netcoreapp2.2\TaskSchedulerApi.runtimeconfig.dev.json
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\bin\Debug\netcoreapp2.2\TaskSchedulerApi.dll
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\bin\Debug\netcoreapp2.2\TaskSchedulerApi.pdb
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.csprojAssemblyReference.cache
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.csproj.CoreCompileInputs.cache
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.RazorAssemblyInfo.cache
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.RazorAssemblyInfo.cs
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.AssemblyInfoInputs.cache
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.AssemblyInfo.cs
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.RazorTargetAssemblyInfo.cache
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.dll
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.pdb
