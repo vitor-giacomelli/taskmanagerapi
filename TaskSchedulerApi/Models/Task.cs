@@ -15,7 +15,6 @@ namespace TaskSchedulerApi.Models
         public string Titulo { get; set; }
         public bool Status { get; set; }
         public string Descricao { get; set; }
-        public DateTime DataCriacao { get; set; }
 
     }
 }

@@ -42,7 +42,6 @@ namespace TaskSchedulerApi.Models.DataManager
             dbEntity.Status = entity.Status;
             dbEntity.Titulo = entity.Titulo;
             dbEntity.Descricao = entity.Descricao;
-            dbEntity.DataCriacao = entity.DataCriacao;
             _taskContext.SaveChanges();
         }
 
