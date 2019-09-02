@@ -11,3 +11,4 @@ E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSch
 E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.RazorTargetAssemblyInfo.cache
 E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.dll
 E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.pdb
+E:\VS\Projetos\TaskSchedulerApi\TaskSchedulerApi\obj\Debug\netcoreapp2.2\TaskSchedulerApi.csprojAssemblyReference.cache

@@ -1,10 +1,9 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace TaskSchedulerApi.Migrations
 {
-    public partial class taskmanagerapi : Migration
+    public partial class TaskManagerMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -16,8 +15,7 @@ namespace TaskSchedulerApi.Migrations
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     Titulo = table.Column<string>(nullable: true),
                     Status = table.Column<bool>(nullable: false),
-                    Descricao = table.Column<string>(nullable: true),
-                    DataCriacao = table.Column<DateTime>(nullable: false)
+                    Descricao = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
                 {
